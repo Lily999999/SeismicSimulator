@@ -1,0 +1,16 @@
+ALERT: 2022/10/18, 18:18:42, (Lat: -5.281568, Long: 171.673972), Magnitude: 10.163020, Depth: 1.648388 
+Reading: 2022/10/18, 18:18:44, (Lat: -16.693071, Long: 164.994872), Magnitude: 2.802736, Depth: 5.744978 
+Reading: 2022/10/18, 18:18:46, (Lat: -17.445313, Long: 170.455249), Magnitude: 9.449209, Depth: 7.052879 
+Request for data received from sensor 1, data has been sent
+Received from sensor 1, 2022:10:18, 18:18:46, (Lat: -13.548496, Long: 161.031678), Magnitude: 11.095040, Depth: 4.310244 distance = 1098.454298km
+Request for data received from sensor 1, data has been sent
+Received from sensor 3, 2022:10:18, 18:18:46, (Lat: -22.950049, Long: 164.068342), Magnitude: 10.073342, Depth: 5.582357 distance = 904.598819km
+Received from sensor 5, 2022:10:18, 18:18:46, (Lat: -32.127285, Long: 167.006892), Magnitude: 2.975950, Depth: 6.771384 distance = 1668.854302km
+Received from sensor 7, 2022:10:18, 18:18:46, (Lat: -24.776931, Long: 155.401037), Magnitude: 7.904128, Depth: 2.953907 distance = 1759.619973km
+Report sent to main
+Request for data received from sensor 3, data has been sent
+Reading: 2022/10/18, 18:18:48, (Lat: -31.280922, Long: 172.905950), Magnitude: 0.991957, Depth: 7.309041 
+Request for data received from sensor 1, data has been sent
+Reading: 2022/10/18, 18:18:50, (Lat: -4.130856, Long: 175.893452), Magnitude: 2.446988, Depth: 0.698535 
+Reading: 2022/10/18, 18:18:52, (Lat: -12.094783, Long: 162.392274), Magnitude: 6.683475, Depth: 1.608591 
+Request for data received from sensor 7, data has been sent

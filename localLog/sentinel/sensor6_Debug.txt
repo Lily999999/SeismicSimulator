@@ -1,0 +1,3 @@
+ALERT: 2022/10/18, 18:36:6, (Lat: -3.329838, Long: 155.640527), Magnitude: 11.030812, Depth: 7.990442 
+Request for data received from sensor 3, data has been sent
+Received from sensor 7, 2022:10:18, 18:36:6, (Lat: -10.302382, Long: 174.334123), Magnitude: 2.102076, Depth: 8.457853 distance = 2203.284623km

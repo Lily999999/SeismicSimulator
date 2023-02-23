@@ -1,0 +1,6 @@
+ALERT: 2022/10/18, 18:36:6, (Lat: -17.887323, Long: 153.055594), Magnitude: 11.385810, Depth: 8.893831 
+Received from sensor 4, 2022:10:18, 18:36:6, (Lat: -24.792389, Long: 171.744977), Magnitude: 2.439975, Depth: 9.335979 distance = 2079.641865km
+Request for data received from sensor 6, data has been sent
+Received from sensor 0, 2022:10:18, 18:36:6, (Lat: -27.726195, Long: 162.437105), Magnitude: 9.397191, Depth: 7.984400 distance = 1455.203881km
+Received from sensor 6, 2022:10:18, 18:36:6, (Lat: -3.329838, Long: 155.640527), Magnitude: 11.030812, Depth: 7.990442 distance = 1642.964003km
+Report sent to main

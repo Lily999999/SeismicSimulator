@@ -1,0 +1,19 @@
+ALERT: 2022/10/19, 0:56:30, (Lat: -17.020921, Long: 170.988819), Magnitude: 10.276386, Depth: 3.320030 
+Received from sensor 4, 2022:10:19, 0:56:30, (Lat: -29.242311, Long: 161.970819), Magnitude: 2.990431, Depth: 0.273156 distance = 1640.601162km
+Received from sensor 6, 2022:10:19, 0:56:30, (Lat: -1.710613, Long: 177.109479), Magnitude: 2.824637, Depth: 1.881466 distance = 1829.194640km
+Received from sensor 0, 2022:10:19, 0:56:30, (Lat: -27.726195, Long: 162.437105), Magnitude: 9.397191, Depth: 7.984400 distance = 1478.641203km
+Reading: 2022/10/19, 0:56:32, (Lat: -8.403200, Long: 169.170339), Magnitude: 8.277593, Depth: 6.426119 
+Request for data received from sensor 6, data has been sent
+ALERT: 2022/10/19, 0:56:34, (Lat: -14.850523, Long: 164.750837), Magnitude: 10.745821, Depth: 8.433382 
+Received from sensor 0, 2022:10:19, 0:56:34, (Lat: -9.166565, Long: 167.065129), Magnitude: 5.728765, Depth: 6.288709 distance = 680.228271km
+Request for data received from sensor 4, data has been sent
+Received from sensor 6, 2022:10:19, 0:56:34, (Lat: -30.767648, Long: 179.495407), Magnitude: 3.935256, Depth: 7.252872 distance = 2321.986031km
+Received from sensor 4, 2022:10:19, 0:56:34, (Lat: -12.369395, Long: 156.867839), Magnitude: 10.381054, Depth: 9.269899 distance = 895.340997km
+Reading: 2022/10/19, 0:56:36, (Lat: -0.002957, Long: 154.280237), Magnitude: 2.699595, Depth: 3.325577 
+Request for data received from sensor 0, data has been sent
+Reading: 2022/10/19, 0:56:38, (Lat: -17.760904, Long: 179.401210), Magnitude: 5.380567, Depth: 8.568277 
+ALERT: 2022/10/19, 0:56:40, (Lat: -24.153910, Long: 165.684121), Magnitude: 10.318421, Depth: 6.222205 
+Received from sensor 4, 2022:10:19, 0:56:40, (Lat: -2.545155, Long: 164.609228), Magnitude: 6.927655, Depth: 2.050743 distance = 2405.441745km
+Received from sensor 6, 2022:10:19, 0:56:40, (Lat: -0.980346, Long: 153.374050), Magnitude: 9.532085, Depth: 8.230861 distance = 2897.504044km
+Received from sensor 0, 2022:10:19, 0:56:40, (Lat: -0.537919, Long: 158.043716), Magnitude: 1.646779, Depth: 8.041768 distance = 2751.828878km
+Report sent to main

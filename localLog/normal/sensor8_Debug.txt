@@ -1,0 +1,7 @@
+Reading: 2022/10/18, 18:18:41, (Lat: -5.994296, Long: 164.488124), Magnitude: 4.745178, Depth: 9.231054 
+Reading: 2022/10/18, 18:18:44, (Lat: -14.133551, Long: 155.684417), Magnitude: 9.813948, Depth: 4.030567 
+Reading: 2022/10/18, 18:18:45, (Lat: -8.257885, Long: 161.263410), Magnitude: 6.554814, Depth: 9.705721 
+Reading: 2022/10/18, 18:18:48, (Lat: -16.905530, Long: 172.252524), Magnitude: 3.043500, Depth: 7.334015 
+Reading: 2022/10/18, 18:18:50, (Lat: -6.556862, Long: 156.130296), Magnitude: 9.407170, Depth: 7.127111 
+Reading: 2022/10/18, 18:18:52, (Lat: -28.175913, Long: 165.592134), Magnitude: 5.377787, Depth: 6.608944 
+Request for data received from sensor 7, data has been sent

@@ -1,0 +1,4 @@
+Reading: 2022/10/18, 18:23:6, (Lat: -32.777273, Long: 170.955424), Magnitude: 2.776502, Depth: 1.923223 
+Reading: 2022/10/18, 18:23:7, (Lat: -7.690657, Long: 170.934304), Magnitude: 0.885624, Depth: 4.436290 
+Reading: 2022/10/18, 18:23:10, (Lat: -23.799826, Long: 174.679248), Magnitude: 8.896538, Depth: 8.872964 
+Request for data received from sensor 2, data has been sent

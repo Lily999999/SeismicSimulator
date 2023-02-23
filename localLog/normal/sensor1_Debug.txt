@@ -1,0 +1,17 @@
+ALERT: 2022/10/18, 18:18:42, (Lat: -8.405170, Long: 171.243021), Magnitude: 10.441687, Depth: 9.640624 
+Reading: 2022/10/18, 18:18:44, (Lat: -26.021553, Long: 156.615820), Magnitude: 9.215212, Depth: 9.122458 
+ALERT: 2022/10/18, 18:18:46, (Lat: -13.548496, Long: 161.031678), Magnitude: 11.095040, Depth: 4.310244 
+Received from sensor 2, 2022:10:18, 18:18:43, (Lat: -28.722089, Long: 166.503851), Magnitude: 1.553657, Depth: 6.799649 distance = 1779.261552km
+Request for data received from sensor 4, data has been sent
+Received from sensor 0, 2022:10:18, 18:18:43, (Lat: -30.084363, Long: 156.728990), Magnitude: 4.022673, Depth: 7.682296 distance = 1890.960361km
+Received from sensor 4, 2022:10:18, 18:18:46, (Lat: -17.445313, Long: 170.455249), Magnitude: 9.449209, Depth: 7.052879 distance = 1098.454298km
+Received from sensor 0, 2022:10:18, 18:18:45, (Lat: -9.166565, Long: 167.065129), Magnitude: 5.728765, Depth: 6.288709 distance = 818.371145km
+Received from sensor 2, 2022:10:18, 18:18:45, (Lat: -4.465517, Long: 177.038808), Magnitude: 4.251612, Depth: 7.572466 distance = 2025.495926km
+Received from sensor 4, 2022:10:18, 18:18:46, (Lat: -17.445313, Long: 170.455249), Magnitude: 9.449209, Depth: 7.052879 distance = 1098.454298km
+ALERT: 2022/10/18, 18:18:48, (Lat: -3.330115, Long: 178.621861), Magnitude: 11.687662, Depth: 0.980067 
+Received from sensor 2, 2022:10:18, 18:18:47, (Lat: -4.937269, Long: 158.244337), Magnitude: 0.386903, Depth: 9.202400 distance = 2266.790558km
+Received from sensor 4, 2022:10:18, 18:18:48, (Lat: -31.280922, Long: 172.905950), Magnitude: 0.991957, Depth: 7.309041 distance = 3165.013741km
+Request for data received from sensor 0, data has been sent
+Received from sensor 0, 2022:10:18, 18:18:47, (Lat: -12.037888, Long: 165.888626), Magnitude: 11.426757, Depth: 9.161951 distance = 1703.511494km
+Reading: 2022/10/18, 18:18:50, (Lat: -5.514114, Long: 159.939429), Magnitude: 5.299506, Depth: 3.743218 
+Reading: 2022/10/18, 18:18:52, (Lat: -32.492188, Long: 178.988892), Magnitude: 7.813182, Depth: 3.464363 
